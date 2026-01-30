@@ -2,7 +2,7 @@
 
 import rs = require('readline-sync');
 
-const cores: Array<string> = new Array<string>;
+const cores: Array<string> = new Array<string>();
 
 for(let i = 0; i < 5; i++) {
   cores[i] = rs.question('Digite o nome de uma cor: ');
