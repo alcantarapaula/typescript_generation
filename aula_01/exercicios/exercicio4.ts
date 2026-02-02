@@ -15,3 +15,7 @@ if(!check) {
 } else {
   console.log(`O número ${numero} foi encontrado!`)
 };
+
+// const numerosTeste: Set<number> = new Set([2, 5, 6, 1, 3, 4]);
+
+// console.log(numerosTeste)
